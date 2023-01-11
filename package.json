@@ -18,7 +18,7 @@
     "gatsby-plugin-transition-link": "^1.20.2",
     "gatsby-source-contentful": "^2.3.18",
     "gatsby-source-filesystem": "^2.1.9",
-    "gatsby-transformer-remark": "^2.6.21",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.2.6",
     "gsap": "^3.3.4",
     "imagemin-pngquant": "^5.0.1",
